@@ -111,6 +111,7 @@ class Footer extends React.Component {
       >
         <div className="container-fluid d-grid">
           <div className="area-1">
+            <p>edit by s</p>
             <a
               href="https://edx.org"
               aria-label={intl.formatMessage(messages['footer.logo.ariaLabel'])}
